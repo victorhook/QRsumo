@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "QRsumo_FootprintLibrary")(type "KiCad")(uri "${KIPRJMOD}/kicad_library/footprints/QRsumo_FootprintLibrary.pretty")(options "")(descr ""))
+)
