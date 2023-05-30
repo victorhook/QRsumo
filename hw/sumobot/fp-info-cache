@@ -1,4 +1,4 @@
-20900780301622443
+20902465770801525
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77433,6 +77433,13 @@ EG1206A
 0
 5
 5
+QRsumo_FootprintLibrary
+SHARP_GP2S60
+
+GP2S60 
+0
+4
+4
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
