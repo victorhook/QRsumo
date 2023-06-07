@@ -4,6 +4,13 @@
 
   (paper "A3")
 
+  (title_block
+    (title "QRsumo")
+    (date "2023-06-07")
+    (rev "1.0")
+    (company "Qrtech")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:LMV324" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 5.08 0)
