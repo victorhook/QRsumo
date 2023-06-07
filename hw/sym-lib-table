@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "Espressif")(type "KiCad")(uri "/home/nik/dev/hw/sumobot-wars/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
   (lib (name "QRsumo_symbols")(type "KiCad")(uri "${KIPRJMOD}/kicad_library/symbols/QRsumo_symbols.kicad_sym")(options "")(descr ""))
 )
