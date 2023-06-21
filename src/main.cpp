@@ -3,7 +3,7 @@
 
 void setup()
 {
-
+    qrsumo.init();
 }
 
 void loop()
